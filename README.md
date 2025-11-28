@@ -1,4 +1,4 @@
-# inner-wheel-landing-page
+# OIBSIP-inner-wheel-landing-page
 Task 1-Oasis Infobytes: Landing page project built with HTML and CSS.
 This is a simple and clean *Landing Page* created using **HTML** and **CSS** as part of **Task 1** of my Web Development Internship at **Oasis Infobytes**.
 
